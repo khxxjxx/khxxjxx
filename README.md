@@ -20,3 +20,5 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
+
+![snake gif](https://github.com/khxxjxx/khxxjxx/blob/output/github-contribution-grid-snake.svg)
